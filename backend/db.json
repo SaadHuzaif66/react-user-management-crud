@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "Moahmmed Saad",
+      "email": "saad@gmail.com",
+      "password": "saad123",
+      "confirmPassword": "saad123",
+      "gender": "male",
+      "country": "india",
+      "id": "hfRjR4g_JDA"
+    },
+    {
+      "name": "Saad Huzaif",
+      "email": "huzaif@gmail.com",
+      "password": "huzaif123",
+      "confirmPassword": "huzaif123",
+      "gender": "male",
+      "country": "americe",
+      "id": "jzHQi0VYl_Q"
+    },
+    {
+      "name": "shaik Ahmed",
+      "email": "shaik@gmail.com",
+      "password": "shaik123",
+      "confirmPassword": "shaik123",
+      "gender": "male",
+      "country": "england",
+      "id": "QVP8EOrBst8"
+    },
+    {
+      "name": "Bilal",
+      "email": "bilal@gmail.com",
+      "password": "bilal123",
+      "confirmPassword": "bilal123",
+      "gender": "male",
+      "country": "Africa",
+      "id": "Zz2vrz8HbxE"
+    },
+    {
+      "name": "Mohammed Taufeeq",
+      "email": "Taufeeq@gmail.com",
+      "password": "tauf123",
+      "confirmPassword": "tauf123",
+      "gender": "male",
+      "country": "england",
+      "id": "OBkeHOGZvHw"
+    },
+    {
+      "name": "shafi",
+      "email": "shafi@gmail.com",
+      "password": "shafi123",
+      "confirmPassword": "shafi123",
+      "gender": "male",
+      "country": "india",
+      "id": "hLF3eaBmVY0"
+    },
+    {
+      "name": "Nazir",
+      "email": "nazir@gmail.com",
+      "password": "nazir123",
+      "confirmPassword": "nazir123",
+      "gender": "male",
+      "country": "Africa",
+      "id": "_9-nAtobXX4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
